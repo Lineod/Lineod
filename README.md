@@ -1,8 +1,13 @@
 @Lineod
+
 -Science
+
 -High school student
+
 -Exploring new things
+
 -lovegoooooooood@gmail.com
+
 -Nine Os:)
 
 <!---
