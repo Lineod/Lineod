@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Lineod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+@Lineod
+-Science
+-High school student
+-Exploring new things
+-lovegoooooooood@gmail.com
+-Nine Os:)
 
 <!---
 Lineod/Lineod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
