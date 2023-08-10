@@ -1,14 +1,6 @@
 @Lineod
 
--Science
-
--High school student
-
--Exploring new things
-
--lovegoooooooood@gmail.com
-
--Nine Os:)
+ShanghaiTech University-Biology
 
 <!---
 Lineod/Lineod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
